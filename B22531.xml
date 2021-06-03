@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands triumph and Londons glory, or, The royal proceedings to the coronation of the most high and mighty King Charles the Second, upon Tuesday the 23th of April, and also the day before the coronation, through the City of London, as it was settled by his sacred Majesty, March 4, 1661..</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22531</idno><idno type="EEBO-CITATION">99888395</idno>
+  <idno type="VID">201707</idno>
+  <idno type="EEBO-PROQUEST">2248544881</idno>
+  
+            <idno type="STC">Wing E3062</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.12[139]</idno>
+            <idno type="STC">ESTC R229563</idno>
+            <idno type="PROQUEST">ocm99888395</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888395e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22531)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201707)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C26:3[139])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands triumph and Londons glory, or, The royal proceedings to the coronation of the most high and mighty King Charles the Second, upon Tuesday the 23th of April, and also the day before the coronation, through the City of London, as it was settled by his sacred Majesty, March 4, 1661..</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Jones,,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>MDCLXI.. [1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="topical_term">Coronations --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201707:1"/>
+            <head>Englands Triumph and Londons Glory, Or, the Royal Proceedings to the CORONATION OF The Most High and Mighty KING <hi>CHARLES</hi> the Second, upon Tuesday the 23th of <hi>April,</hi> And also the day before the Coronation, through the City of <hi>London,</hi> as it was Settled by his <hi>Sacred Majesty, March</hi> 4. 1661.</head>
+            <div type="part">
+               <head>Proceedings to the Coronation of his Royal Majesty the day before His Coronation, <hi>April</hi> 22.</head>
+               <list>
+                  <item>THe Duke of <hi>York's Horse-guard.</hi>
+                  </item>
+                  <item>Messengers of the Chamber.</item>
+                  <item>Knight <hi>Harbinger,</hi> Sergeant <hi>Porter.</hi>
+                  </item>
+                  <item>Sewers of the Chamber.</item>
+                  <item>Quarter Wayters.</item>
+                  <item>Gentlemen Ushers in Ordinary.</item>
+                  <item>The Six Clarkes of the <hi>Chancery.</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>Clarkes,
+<list>
+                        <item>Of the Signet.</item>
+                        <item>Privy-Seale,</item>
+                        <item>Council,</item>
+                        <item>Parliament.</item>
+                        <item>Crowne.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <item>Chaplains having Dignities ten in number.</item>
+                  <item>Aldermen of <hi>London.</hi>
+                  </item>
+                  <item>The <hi>Kings Advocate,</hi> and Remembrancer.</item>
+                  <item>Masters of the <hi>Chancery.</hi>
+                  </item>
+                  <item>Kings <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Sergeants.</item>
+                  <item>Kings Atturney and Solicitor,</item>
+                  <item>Kings Eldest Sergeants.</item>
+                  <item>Kings Batchelors.</item>
+               </list>
+               <list>
+                  <item>Secretary of the <hi>French</hi> and <hi>Latine</hi> Tongues.</item>
+                  <item>Esquires of the Body.</item>
+                  <item>Sewers, Carvers, and Chaplains in Ordinary.</item>
+                  <item>Masters of standing Offices, being no Counsel<g ref="char:EOLhyphen"/>lors, <hi>viz.</hi> Of the Tents, Revels, Ceremo<g ref="char:EOLhyphen"/>nies, Armory, Wardrobe, Ordinance.</item>
+                  <item>Masters of Requests.</item>
+                  <item>Chamberlain of the <hi>Exchequer.</hi>
+                  </item>
+                  <item>Barons of the <hi>Exchequer</hi> &amp; Judges of the Law.</item>
+                  <item>Lord Chief Baron, and Lord Chief Justice of the <hi>Common Pleas.</hi>
+                  </item>
+                  <item>Mr. of the Rolls, Chief Justice.</item>
+                  <item>Trumpets.</item>
+                  <item>Gentlemen of the Privy Chamber.</item>
+                  <item>Knights of the <hi>Bath.</hi>
+                  </item>
+                  <item>Knights that have been Lord Embassadours,</item>
+                  <item>Lord Presidents.</item>
+                  <item>Lord Deputies.</item>
+                  <item>Knight Marshall, Treasurer of the Chamber,</item>
+                  <item>Master of the Jewel-house.</item>
+                  <item>The Dean of the Kings Chappel.</item>
+                  <item>Barons younger Sons.</item>
+                  <item>Viscounts younger Sons.</item>
+                  <item>Knights of the Privy Councill.</item>
+                  <item>Knight. of the Garter.</item>
+                  <item>Barons Eldest Sons.</item>
+                  <item>Earls youngest Sons.</item>
+                  <item>Viscounts eldest Sons.</item>
+                  <item>Barons.</item>
+                  <item>Mr. Atturney to consider the Act of Parliament.</item>
+                  <item>Bishops.</item>
+                  <item>Marquesses younger Sons.</item>
+                  <item>Earls Eldest Sons.</item>
+                  <item>Viscounts.</item>
+                  <item>Dukes younger Sons.</item>
+                  <item>Marquesses Eldest Sons.</item>
+                  <item>Earles.</item>
+                  <item>Lord Stewards and Lord Chamberlaine if not otherwise employed.</item>
+                  <item>Dukes eldest Sons.</item>
+                  <item>Marquesses.</item>
+                  <item>Dukes.</item>
+                  <item>Ser. at Arms.
+<list>
+                        <item>
+                           <hi>Clare<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ceax</hi> and <hi>Norroy.</hi>
+                        </item>
+                        <item>L. Treasurer L. Chancellor.</item>
+                        <item>Representing the Dukes of <hi>Normandy</hi> &amp; <hi>Aquitaine.</hi>
+                        </item>
+                        <item>Gent. Ush, <hi>Garter,</hi> L. <hi>Mayor</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>The Constable or Marshal on the left. The Sword borne by,</item>
+                  <item>Lord great Chamberlaine on the right.</item>
+                  <item>The King under his Canopy.</item>
+                  <item>Borne by Gentlemen of the Privy-Chamber.</item>
+                  <item>Equerries and Foot-men next his Ma<g ref="char:EOLhyphen"/>jesty.</item>
+                  <item>Gentlemen and Penrioners <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> them,</item>
+                  <item>The Master of the Horse leading a <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Horse.</item>
+                  <item>The Vice Chamberlaine <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>,</item>
+                  <item>Captain of the Pentioners,</item>
+                  <item>Capt. of the Guard.</item>
+                  <item>The Guard.</item>
+                  <item>The Kings Horse-guard.</item>
+                  <item>The Generrls <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>-guard.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Proceedings the Second day to the Coronation of his Royal Majesty, being the 23 of <hi>April▪</hi>
+               </head>
+               <list>
+                  <item>ALdermen of <hi>London,</hi>
+                  </item>
+                  <item>Chaplains having Dignities.</item>
+                  <item>The Kings younger Sergeants.</item>
+                  <item>The Kings Atturney and Solicitor.</item>
+                  <item>The Kings ancientest Sergeants.</item>
+                  <item>Master of the Requests.</item>
+                  <item>Baron of the Exchequer and other Judges in their Order.</item>
+                  <item>Two Pursevants of Arms.</item>
+                  <item>The Master of the Jewel-house,</item>
+                  <item>Knights of the Privy-Council.</item>
+                  <item>The Sergeant Porter.</item>
+                  <item>The Sergeant of the Vestry.</item>
+                  <item>In their Copes.
+<list>
+                        <item>Gent. of the Kings Chappel. and</item>
+                        <item>Prebends of <hi>Westminster.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Two Heralds.</item>
+                  <item>Barons in their Robes, according to their Creation.</item>
+                  <item>Bishops, according to their Dignities and Consecration.</item>
+                  <item>Two Heralds.</item>
+                  <item>Viscounts in their Robes, according to their Creation.</item>
+                  <item>Two Heralds.</item>
+                  <item>Earles, according to their Creations, with their Cap and Coronet in their hands.</item>
+                  <item>According <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Crea<g ref="char:EOLhyphen"/>tion.
+<list>
+                        <item>Marquesses</item>
+                        <item>Dukes.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Norroy</hi> and <hi>Clarence <gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </hi> Kings of Armes.</item>
+                  <item>The Lord Treasurer.</item>
+                  <item>The Lord Chancellour.</item>
+                  <item>The Lords Arch-bishops.</item>
+                  <item>The Spurs born by—</item>
+                  <item>St. <hi>Edwards</hi> Scepter born by—</item>
+                  <item>The Lord Major with his Mace, Garter K. of Armes.</item>
+                  <item>A Gentleman Usher.</item>
+                  <item>The Lord Chamberlain of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> alone.</item>
+                  <item>Sergeants of Armes.</item>
+                  <item>The Lord Constable with his Mace on the right hand.</item>
+                  <item>The Sword in the Scabbord born by the E. Marshall of <hi>England</hi> on the left hand.</item>
+                  <item>The Rod with the Dove born by</item>
+                  <item>The Crown born by</item>
+                  <item>The Orbe born by</item>
+                  <item>Patina born by the Bishop of</item>
+                  <item>Regale born by the Bishop of</item>
+                  <item>Barons of the Cinque Ports to carry the Canopy.</item>
+                  <item>Gent. Pentioners with their Axes.</item>
+                  <item>The Kings Majesty under his Canopy supported by the Bishop of and</item>
+                  <item>Two Gent. of the <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>amber to be near his Majesty, <hi>viz.</hi>
+                  </item>
+                  <item>His Majesties Train born by Lord PERCY. and</item>
+                  <item>Capt. of the Pentioners.</item>
+                  <item>Capt. of the Guard.</item>
+                  <item>The Guard.</item>
+               </list>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for JOHN JONES, MDCLXI.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
